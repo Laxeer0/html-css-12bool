@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.debug [class*="col-"]{
+  border: 1px solid black;
+  min-height:300px;
+  line-height: 300px;
+  text-align: center;
+}
+
+.container{
+  background-color: #e88282;
+}
